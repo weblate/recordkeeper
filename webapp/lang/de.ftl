@@ -405,3 +405,14 @@ dlc4_comm_status_regist = Registriert
 dlc4_comm_status_complete_task = Abgeschlossen (kein Ereignis)
 dlc4_comm_status_complete = Abgeschlossen
 dlc4_comm_order = Änderungsauftrag
+character_flag_eyepatch = Augenklappe anzeigen
+character_flag_dlc4_ma_1 = Meisterkunst 1 freischalten (FR)
+character_flag_dlc4_ma_2 = Meisterkunst 2 freischalten (FR)
+character_flag_dlc4_ma_3 = Meisterkunst 3 freischalten (FR)
+ouroboros_art =
+    { $id ->
+        [0] Talent-Kunstwerk
+        [4] Zusätzliches Talent-Kunstwerk
+       *[1] Kunstwerk { $id }
+    }
+field_time_hour = Kartenzeit (Stunden)
